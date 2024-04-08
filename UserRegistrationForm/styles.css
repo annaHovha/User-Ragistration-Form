@@ -1,0 +1,11 @@
+.regForm{
+	border: 1px dotted black;
+	width: 300px;	
+	height: 400px;
+	margin:0 auto;
+	text-align: center;
+}
+
+#submit {
+	background-color:#7ab5cf;
+}
